@@ -1,0 +1,7 @@
+TIMESTAMP,NAME,E-MAIL,PHONE NO.,COURSE,INTERNSHIP,ADDRESS
+2/9/2023 0:17:18,NANDRU YASHASWINI,nandruyash7@gmail.com,9492130634,BTech,Content Writng,"Khammam,Telangana"
+2/9/2023 1:00:33,Prabhu dayal,hg339379@gmail.com,08084758474,btech IT,Content Writng,"judges society pocket p7 near silver oaks society, Greater Noida, Uttar Pradesh 201310"
+2/9/2023 1:22:19,Kartik Sharma,btech25042.21@bitmesra.ac.in,9412229666,BTECH(CSE),,"B240,3rd Floor ,Kanha Appartment, Priyadarshini Vihar,New Delhi -110092"
+2/9/2023 4:51:56,Priyanka Nishad ,priyankanishad752102@gmail.com,8840996121,B.tech ,Content Writng,New colony near Gas Godam Road Madhopur Gorakhpur 
+2/9/2023 12:41:40,Rahul Yadav,ry33420@gmail.com,8103167281,B tech,Content Writng,"Indrapuri, Bhopal"
+2/10/2023 23:04:42,Harshit Agarwal,harshit.agarwal@sdabocconiasiacenter.com,+919406738257,International Master's in Business,Content Writng,"Powai, Mumbai"
